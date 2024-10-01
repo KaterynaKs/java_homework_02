@@ -56,4 +56,3 @@ int length = str.length();
 		return a/b;
 	}
 }
-
