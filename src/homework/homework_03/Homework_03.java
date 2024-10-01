@@ -43,7 +43,6 @@ public class Homework_03 {
         double exchan = 1.1;
         double doll = convertEuroToDoll(sum, exchan);
         System.out.println("The euro amount " + sum + " is equivalent to the " + doll + " dollar amount.");
-
     }
     public static double convertEuroToDoll(double sum, double exchan){
         return sum * exchan;
